@@ -16,19 +16,6 @@
             Get Started
           </button>
         </div>
-        
-        <!-- Right image -->
-        <!-- <div class="relative">
-          <div class="bg-white rounded-2xl p-8 shadow-lg">
-            <div class="w-full h-80 bg-gradient-to-br from-blue-100 to-blue-200 rounded-lg flex items-center justify-center">
-              <div class="text-center">
-                <div class="text-8xl mb-4">👓</div>
-                <div class="text-2xl mb-2">🧽</div>
-                <p class="text-gray-600 text-sm">Cleaning glasses with microfiber cloth</p>
-              </div>
-            </div>
-          </div>
-        </div> -->
       </div>
     </div>
   </section>

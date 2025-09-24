@@ -6,9 +6,6 @@
         <h2 class="text-6xl font-bold text-gray-900 mb-4">
           Simplify your vision care
         </h2>
-        <!-- <p class="text-gray-600 max-w-2xl mx-auto">
-          Everything you need for healthy eyes and clear vision, all in one place.
-        </p> -->
       </div>
       
       <!-- Services Grid -->
@@ -17,10 +14,6 @@
         <div class="bg-white rounded-lg shadow-md overflow-hidden flex flex-col h-full">
           <div class="h-48 bg-gradient-to-br from-blue-100 to-blue-200 flex items-center justify-center">
             <img src="https://placehold.co/400x200" alt="Online Vision Test" class="rounded-xl">
-            <!-- <div class="text-center">
-              <div class="text-6xl mb-2">📦</div>
-              <div class="text-sm text-gray-600">Auto Delivery</div>
-            </div> -->
           </div>
           <div class="p-6 text-center flex flex-col flex-grow">
             <h3 class="text-2xl font-bold mb-2">Subscription & Save</h3>
@@ -35,10 +28,6 @@
         <div class="bg-white rounded-lg shadow-md overflow-hidden flex flex-col h-full">
           <div class="h-48 bg-gradient-to-br from-green-100 to-green-200 flex items-center justify-center">
             <img src="https://placehold.co/400x200" alt="Online Vision Test" class="rounded-xl">
-            <!-- <div class="text-center">
-              <div class="text-6xl mb-2">👁️‍🗨️</div>
-              <div class="text-sm text-gray-600">Vision Test</div>
-            </div> -->
           </div>
           <div class="p-6 text-center flex flex-col flex-grow">
             <h3 class="text-2xl font-bold mb-2">Online Vision Test</h3>
@@ -53,10 +42,6 @@
         <div class="bg-white rounded-lg shadow-md overflow-hidden flex flex-col h-full">
           <div class="h-48 bg-gradient-to-br from-purple-100 to-purple-200 flex items-center justify-center">
             <img src="https://placehold.co/400x200" alt="Online Vision Test" class="rounded-xl">
-            <!-- <div class="text-center">
-              <div class="text-6xl mb-2">📱</div>
-              <div class="text-sm text-gray-600">Virtual Try-On</div>
-            </div> -->
           </div>
           <div class="p-6 text-center flex flex-col flex-grow">
             <h3 class="text-2xl font-bold mb-2">Virtual Try-On</h3>

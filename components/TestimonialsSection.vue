@@ -159,10 +159,5 @@ onMounted(async () => {
     transform: scale(0.9);
   }
 }
-
-/* Ensure container allows overflow for preview slides */
-/* .testimonials-swiper .swiper-wrapper {
-  align-items: stretch;
-} */
  
 </style>

@@ -10,9 +10,6 @@
               <!-- Placeholder for eyewear images -->
               <div class="relative">
                 <img class="max-w-full h-auto" src="https://placehold.co/200x200">
-                <!-- <div class="w-32 h-20 bg-gray-300 rounded-lg opacity-80 transform rotate-12"></div>
-                <div class="w-32 h-20 bg-gray-400 rounded-lg absolute top-4 left-4 transform -rotate-6"></div>
-                <div class="w-32 h-20 bg-gray-500 rounded-lg absolute top-8 left-8"></div> -->
               </div>
             </div>
             <div class="flex-1 justify-end items-center">

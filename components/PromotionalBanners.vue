@@ -1,7 +1,6 @@
 <template>
   <section class="py-20">
     <!-- Buy one, get one free sunglasses -->
-    <!-- <div class="bg-gradient-to-r from-yellow-400 to-orange-500 mb-8 rounded-xl mx-4"> -->
     <div class="bg-yellow-400 mb-8 rounded-xl mx-4">
       <div class="container px-4 py-12">
         <div class="flex justify-between items-center">
@@ -37,8 +36,6 @@
           </div>
           <div class="text-center">
             <img src="https://placehold.co/500x300" alt="Elevate your look with Ray-Ban" class="ms-4 rounded-xl">
-            <!-- <div class="text-8xl">🕶️</div>
-            <div class="text-2xl font-bold text-white mt-4">Ray-Ban</div> -->
           </div>
         </div>
       </div>

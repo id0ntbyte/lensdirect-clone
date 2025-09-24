@@ -91,15 +91,6 @@
         </div>
 
         <!-- Lens Replacement -->
-        <!-- <div>
-          <h4 class="text-lg font-semibold mb-4">Lens Replacement</h4>
-          <ul class="space-y-2">
-            <li><a href="#" class="text-gray-300 hover:text-white transition-colors text-sm">How It Works</a></li>
-            <li><a href="#" class="text-gray-300 hover:text-white transition-colors text-sm">Prescription Lenses</a></li>
-            <li><a href="#" class="text-gray-300 hover:text-white transition-colors text-sm">Sunglass Lenses</a></li>
-            <li><a href="#" class="text-gray-300 hover:text-white transition-colors text-sm">Lens Options</a></li>
-          </ul>
-        </div> -->
       </div>
     </div>
 
