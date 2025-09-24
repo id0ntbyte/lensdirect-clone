@@ -42,12 +42,10 @@
                 </button>
               </div>
             </div>
-            <div class="flex-1 flex justify-end items-center me-4">
+            <div class="flex-1 flex justify-end items-center me-4 ms-8">
               <!-- Placeholder for eyewear images -->
               <div class="relative">
-                <div class="w-32 h-20 bg-gray-300 rounded-lg opacity-80 transform rotate-12"></div>
-                <div class="w-32 h-20 bg-gray-400 rounded-lg absolute top-4 left-4 transform -rotate-6"></div>
-                <div class="w-32 h-20 bg-gray-500 rounded-lg absolute top-8 left-8"></div>
+                <img class="max-w-full h-auto" src="https://placehold.co/200x200">
               </div>
             </div>
           </div>
@@ -66,9 +64,7 @@
             <div class="flex-1 flex justify-start items-center order-1">
               <!-- Placeholder for lens replacement imagery -->
               <div class="relative">
-                <div class="w-24 h-24 border-4 border-gray-400 rounded-full opacity-60"></div>
-                <div class="w-20 h-20 border-4 border-gray-500 rounded-full absolute top-2 left-2 opacity-80"></div>
-                <div class="w-16 h-16 bg-gray-600 rounded-full absolute top-4 left-4"></div>
+                <img class="max-w-full h-auto" src="https://placehold.co/200x200">
               </div>
             </div>
           </div>
@@ -87,9 +83,7 @@
             <div class="flex-1 flex justify-end items-center">
               <!-- Placeholder for hand holding sunglasses -->
               <div class="relative">
-                <div class="w-20 h-24 bg-pink-300 rounded-full opacity-70 transform rotate-12"></div>
-                <div class="w-16 h-6 bg-gray-800 rounded absolute top-8 left-2 transform -rotate-12"></div>
-                <div class="w-2 h-2 bg-blue-400 rounded-full absolute top-9 left-6"></div>
+                <img class="max-w-full h-auto" src="https://placehold.co/200x200">
               </div>
             </div>
           </div>

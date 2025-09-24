@@ -7,7 +7,6 @@
           <h1 class="text-5xl lg:text-6xl font-bold text-gray-900 mb-6 leading-tight">
             Give your frames<br>
             a fresh start
-            <!-- <span class="text-blue-600">a fresh start</span> -->
           </h1>
           <p class="text-xl text-gray-600 mb-8 leading-relaxed">
             Replace your perscripttion lenses at a fraction of the cost of the retail cost.

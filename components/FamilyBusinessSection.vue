@@ -66,15 +66,12 @@
               <!-- Play button -->
               <div class="absolute inset-0 flex items-center justify-center">
                 <button class="group relative">
-                  <!-- Outer ring -->
-                  <div class="w-24 h-24 rounded-full border-4 border-white border-opacity-80 flex items-center justify-center group-hover:border-opacity-100 transition-all duration-300 group-hover:scale-110">
                     <!-- Inner play button -->
                     <div class="w-16 h-16 bg-white bg-opacity-90 rounded-full flex items-center justify-center group-hover:bg-opacity-100 transition-all duration-300">
                       <svg class="w-8 h-8 text-gray-800 ml-1" fill="currentColor" viewBox="0 0 24 24">
                         <path d="M8 5v14l11-7z"/>
                       </svg>
                     </div>
-                  </div>
                 </button>
               </div>
               </div>
